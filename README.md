@@ -5,4 +5,6 @@ Interested in React,NodeJs,Rust,Go and concurrent systems.
 
 Contact me at: filip.urzon2003@gmail.com
 
+Website: https://magicznaflet.github.io/
+
 
